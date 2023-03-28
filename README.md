@@ -20,6 +20,10 @@
 
 <img src="C:\Users\yzhng\Study\2023\DPA8090\ShaderPractice\image\softshape.png" alt="image-20230305215043116" style="zoom:33%;" />
 
+* wooden_knot.frag
+
+  <img src="C:\Users\yzhng\Study\2023\DPA8090\ShaderPractice\image\wooden_knot.png" alt="image-20230305215043116" style="zoom:33%;" />
+
 ### Task B
 
 - lizars.frag
@@ -45,6 +49,10 @@
 
 <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/day.png" alt="image-20230305215720248" style="zoom:33%;" />
 
+- cell.frag
+
+  <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/cell.png" alt="image-20230305215720248" style="zoom:33%;" />
+
 ### Task C
 
 - mondrian.frag
@@ -61,6 +69,10 @@
   - follow the tutorial https://www.youtube.com/watch?v=q-gXr6XrgWk&ab_channel=Shadron
 
 <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/flag.png" alt="image-20230305215934804" style="zoom:33%;" />
+
+- animix_cloud.frag
+
+  <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/animix_cloud.png" alt="image-20230305215934804" style="zoom:33%;" />
 
 ### Task D
 
@@ -79,3 +91,7 @@
 - complex_tile.frag
 
 <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/complex_tile.png" alt="image-20230305220120031" style="zoom:33%;" />
+
+- rothko.frag
+
+  <img src="https://github.com/alalba221/ShaderPractice/blob/main/image/rothko.png" alt="image-20230305220120031" style="zoom:33%;" />
